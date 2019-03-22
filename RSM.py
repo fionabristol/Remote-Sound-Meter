@@ -1,6 +1,6 @@
 # Import (
 #   Clock
-#   GPIO
+#   GPIO / SPI
 #   MPC3008
 #   Mic
 #   BLINKT!
